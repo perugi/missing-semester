@@ -1,0 +1,3 @@
+[submodule "7_debugging_profiling/pdb-tutorial"]
+	path = 7_debugging_profiling/pdb-tutorial
+	url = https://github.com/spiside/pdb-tutorial
